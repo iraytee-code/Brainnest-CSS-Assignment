@@ -17,7 +17,8 @@ footer {
 }
 
 .header {
-  background-color: #1f2937;
+  /* background-color: #1f2937; */
+  background-image: url("../images/box-image.avif");
 }
 
 .header_nav {
@@ -29,6 +30,7 @@ footer {
   color: #f9faf8;
   font-size: 24px;
   font-weight: bold;
+  cursor: pointer;
 }
 .nav_link {
   color: #e5e7eb;
@@ -73,8 +75,8 @@ footer {
   display: flex;
   align-items: center;
   color: #e5e7eb;
-  width: 65%;
-  height: 450px;
+  width: 350px;
+  height: 350px;
   justify-content: center;
 }
 
